@@ -39,6 +39,9 @@ Cronos Army recently:
 	•	Nominated for Best Strategy Game 2025
 	•	Attracted an active and growing community
 
+Cronos Army is fully compatible with BNB Chain, and this public showcase repository includes configuration files prepared for deployment on BNB Smart Chain (BSC) and opBNB environments.
+
+
 ⸻
 
 📂 What’s in This Repository?
